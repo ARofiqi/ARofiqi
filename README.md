@@ -27,15 +27,15 @@ Selamat datang di profil GitHub saya! Saya seorang web developer yang bersemanga
 
 ### 📈 Statistik GitHub Saya
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ARofiqi&show_icons=true&theme=radical)
 
-![Bahasa Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Bahasa Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ARofiqi&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Temukan Saya di
 
-- **LinkedIn**: [Profil LinkedIn Anda](https://www.linkedin.com/in/ahmad-rofiqi-8aa90417b/)
+- **LinkedIn**: [Link](https://www.linkedin.com/in/ahmad-rofiqi-8aa90417b/)
 
 ---
 
