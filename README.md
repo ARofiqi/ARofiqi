@@ -1,4 +1,4 @@
-# Halo! Saya Ahmad Rofiqi 👋
+# Halo! Saya Ahmad Rofiqi
 
 **Web Developer | Frontend & Backend Enthusiast**
 
@@ -6,16 +6,16 @@ Selamat datang di profil GitHub saya! Saya seorang web developer yang bersemanga
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
-- 💻 **Pengalaman**: Web development dengan fokus pada **Frontend (React, Vue)** dan **Backend (Node.js, Express)**.
-- 🎨 **Minat**: Desain UI/UX, animasi web, serta pengembangan aplikasi full-stack.
-- 📚 **Belajar Saat Ini**: Memperdalam teknologi seperti **TypeScript**, **Next.js**, dan **GoLang**.
-- 💬 **Mari Diskusi**: Saya senang berdiskusi tentang ide baru, tips, dan tren teknologi! Jangan ragu untuk terhubung.
+- **Pengalaman**: Web development dengan fokus pada **Frontend (React, Vue)** dan **Backend (Node.js, Express)**.
+- **Minat**: Desain UI/UX, animasi web, serta pengembangan aplikasi full-stack.
+- **Belajar Saat Ini**: Memperdalam teknologi seperti **TypeScript**, **Next.js**, dan **GoLang**.
+- **Mari Diskusi**: Saya senang berdiskusi tentang ide baru, tips, dan tren teknologi! Jangan ragu untuk terhubung.
   
 ---
 
-### 🛠️ Keterampilan Teknis
+### Keterampilan Teknis
 
 - **Bahasa Pemrograman**: JavaScript, Kotlin, Python
 - **Frontend**: React, Vue, HTML5, CSS3, Tailwind, Bootstrap
@@ -25,7 +25,7 @@ Selamat datang di profil GitHub saya! Saya seorang web developer yang bersemanga
 
 ---
 
-### 📈 Statistik GitHub Saya
+### Statistik GitHub Saya
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ARofiqi&show_icons=true&theme=radical)
 
@@ -33,10 +33,10 @@ Selamat datang di profil GitHub saya! Saya seorang web developer yang bersemanga
 
 ---
 
-### 🌐 Temukan Saya di
+### Temukan Saya di
 
 - **LinkedIn**: [Link](https://www.linkedin.com/in/ahmad-rofiqi-8aa90417b/)
 
 ---
 
-Terima kasih sudah berkunjung ke profil saya! 😊 Ayo berkolaborasi dalam proyek-proyek seru atau berdiskusi tentang teknologi.
+Terima kasih sudah berkunjung ke profil saya! Ayo berkolaborasi dalam proyek-proyek seru atau berdiskusi tentang teknologi.
